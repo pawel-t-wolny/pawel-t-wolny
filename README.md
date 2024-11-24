@@ -1,4 +1,4 @@
-Hi! I am Paweł, building software by day and trying to break it by night. I like making stuff, CTFs, ethical hacking, surfing, kickboxing and more.
+Hi! I am Paweł, building software by day and trying to break it by night. I love making stuff, CTFs, ethical hacking, surfing, skiing, kickboxing and more.
 
 <table align="center">
   <tr>
