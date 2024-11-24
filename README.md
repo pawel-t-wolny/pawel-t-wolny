@@ -1,14 +1,20 @@
 <table align="center">
   <tr>
-    <td colspan="2">
-      <h4>My languages of choice and favourite frameworks:</h4>
+    <td>
+      <h4>Languages of choice:</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,clojure,dart,javascript,java,flutter,fastapi,react" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,clojure,dart,javascript" />
+      </a>
+    </td>
+    <td>
+      <h4>Favourite frameworks:</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,fastapi,react" />
       </a>
     </td>
   </tr>
   <tr>
-    <td style="padding-right: 50px;">
+    <td>
       <h4>Other stuff I know a bit about:</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=gcp,aws,graphql,docker,git" />
