@@ -1,4 +1,4 @@
-*Currently working on:* 🤫
+**Currently working on:** 🤫
 
 Hi! I am Paweł, building software by day and trying to break it by night :) 
 
