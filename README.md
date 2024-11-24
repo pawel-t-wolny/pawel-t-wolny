@@ -4,7 +4,7 @@ I love making stuff, CTFs, ethical hacking, surfing, skiing, kickboxing and more
 
 <br>
 <div align="center">
-  <h4>Tech Stack</h4>
+  <h3>Tech Stack</h3>
 </div>
 
 ___
@@ -49,7 +49,7 @@ ___
 </table>
 
 <div align="center">
-  <h4>My Contributions</h4>
+  <h3>My Contributions</h3>
 </div>
 
 ___
