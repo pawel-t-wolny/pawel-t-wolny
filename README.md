@@ -5,10 +5,10 @@ I love making stuff, CTFs, ethical hacking, surfing, skiing, kickboxing and more
 <br>
 <br>
 <div align="center">
-  For the interested, here is my tech stack:
+  <h4>Tech Stack</h4>
 </div>
 
-<br>
+___
 
 <table align="center">
   <tr>
