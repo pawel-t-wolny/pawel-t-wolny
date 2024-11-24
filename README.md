@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>
-      <h4>Other stuff I know a bit about:</h4>
+      <h4>Other stuff:</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=gcp,aws,graphql,docker,git" />
       </a>
