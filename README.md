@@ -3,7 +3,6 @@ Hi! I am Paweł, building software by day and trying to break it by night :)
 I love making stuff, CTFs, ethical hacking, surfing, skiing, kickboxing and more.
 
 **Currently working on:** 🤫
-
 <div align="center">
   <h3>Tech Stack</h3>
 </div>
