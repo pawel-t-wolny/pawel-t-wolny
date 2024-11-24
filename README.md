@@ -17,7 +17,7 @@
     <td>
       <h4>Other stuff:</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=gcp,aws,graphql,docker,git" />
+        <img src="https://skillicons.dev/icons?i=gcp,aws,graphql,docker" />
       </a>
     </td>
     <td>
