@@ -1,3 +1,5 @@
+*Currently working on:* 🤫
+
 Hi! I am Paweł, building software by day and trying to break it by night :) 
 
 I love making stuff, CTFs, ethical hacking, surfing, skiing, kickboxing and more.
