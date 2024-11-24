@@ -48,5 +48,13 @@ ___
   </tr>
 </table>
 
+<div align="center">
+  <h4>My Contributions</h4>
+</div>
 
+___
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<div style="display: flex; align-items: center;">
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/reqable/re-editor">Re-Editor</a> - Implemented the floating cursor functionality for iOS.
+</div>
 
