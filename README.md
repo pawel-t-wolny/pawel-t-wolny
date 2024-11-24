@@ -1,3 +1,5 @@
+Hi! I am Paweł, building software by day and trying to break it by night. I like making stuff, CTFs, ethical hacking, surfing, kickboxing and more.
+
 <table align="center">
   <tr>
     <td>
