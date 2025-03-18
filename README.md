@@ -34,7 +34,7 @@ ___
         <h4>Other stuff:</h4>
       </div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=gcp,aws,bigquery,docker,terraform" />
+        <img src="https://skillicons.dev/icons?i=gcp,aws,graphql,docker,terraform" />
       </a>
     </td>
     <td>
