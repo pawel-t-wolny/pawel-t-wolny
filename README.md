@@ -1,4 +1,4 @@
-Hi! I am Paweł, building software by day and trying to break it by night :) 
+Hi! I am Paweł :) 
 
 I love making stuff, surfing, skiing, kickboxing and more.
 
