@@ -1,6 +1,6 @@
 Hi! I am Paweł :) 
 
-I love making stuff, surfing, skiing, kickboxing and more.
+I love making stuff, surfing, skiing, kickboxing, grappling and more.
 
 **Currently working on:** 🤫
 <div align="center">
