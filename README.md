@@ -1,6 +1,6 @@
 Hi! I am Paweł, building software by day and trying to break it by night :) 
 
-I love making stuff, CTFs, ethical hacking, surfing, skiing, kickboxing and more.
+I love making stuff, surfing, skiing, kickboxing and more.
 
 **Currently working on:** 🤫
 <div align="center">
