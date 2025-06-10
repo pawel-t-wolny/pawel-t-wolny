@@ -42,7 +42,7 @@ ___
         <h4>Hobbies:</h4>
       </div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kali,raspberrypi,arduino" />
+        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
       </a>
     </td>
   </tr>
