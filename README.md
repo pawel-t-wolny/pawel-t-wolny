@@ -16,7 +16,7 @@ ___
         <h4>Languages:</h4>
       </div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,clojure,dart,javascript" />
+        <img src="https://skillicons.dev/icons?i=python,clojure,javascript,dart,cpp" />
       </a>
     </td>
     <td>
