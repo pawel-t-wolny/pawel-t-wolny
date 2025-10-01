@@ -2,7 +2,7 @@ Hi! I am Paweł :)
 
 I love making stuff, surfing, skiing, kickboxing, grappling and more.
 
-**Currently working on:** 🤫
+**Currently working on:** Teaching LLMs how to do law
 <div align="center">
   <h3>Tech Stack</h3>
 </div>
